@@ -1,0 +1,26 @@
+_repo: Hand-book-for-Horsewomen_39605
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39605-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bussigny, H. L. de (Henry L. de)
+    alias: Bussigny, Henry L. de
+    birthdate: 1840
+    gutenberg_agent_id: '40106'
+    url: http://www.gutenberg.org/2009/agents/40106
+description: ''
+gutenberg_issued: '2012-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horsemanship'
+- !lcc 'SF'
+title: Hand-book for Horsewomen
+url: http://www.gutenberg.org/ebooks/39605
